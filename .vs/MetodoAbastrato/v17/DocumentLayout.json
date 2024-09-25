@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\Projetos C#\\MetodoAbastrato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{487FBB00-92E3-4EF9-80FE-481804FA9BD3}|MetodoAbastrato\\MetodoAbstrato.csproj|c:\\temp\\projetos c#\\metodoabastrato\\metodoabastrato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487FBB00-92E3-4EF9-80FE-481804FA9BD3}|MetodoAbastrato\\MetodoAbstrato.csproj|solutionrelative:metodoabastrato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487FBB00-92E3-4EF9-80FE-481804FA9BD3}|MetodoAbastrato\\MetodoAbstrato.csproj|c:\\temp\\projetos c#\\metodoabastrato\\metodoabastrato\\entities\\naturalperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487FBB00-92E3-4EF9-80FE-481804FA9BD3}|MetodoAbastrato\\MetodoAbstrato.csproj|solutionrelative:metodoabastrato\\entities\\naturalperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487FBB00-92E3-4EF9-80FE-481804FA9BD3}|MetodoAbastrato\\MetodoAbstrato.csproj|c:\\temp\\projetos c#\\metodoabastrato\\metodoabastrato\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487FBB00-92E3-4EF9-80FE-481804FA9BD3}|MetodoAbastrato\\MetodoAbstrato.csproj|solutionrelative:metodoabastrato\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487FBB00-92E3-4EF9-80FE-481804FA9BD3}|MetodoAbastrato\\MetodoAbstrato.csproj|c:\\temp\\projetos c#\\metodoabastrato\\metodoabastrato\\entities\\legalentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487FBB00-92E3-4EF9-80FE-481804FA9BD3}|MetodoAbastrato\\MetodoAbstrato.csproj|solutionrelative:metodoabastrato\\entities\\legalentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LegalEntity.cs",
+              "DocumentMoniker": "C:\\Temp\\Projetos C#\\MetodoAbastrato\\MetodoAbastrato\\Entities\\LegalEntity.cs",
+              "RelativeDocumentMoniker": "MetodoAbastrato\\Entities\\LegalEntity.cs",
+              "ToolTip": "C:\\Temp\\Projetos C#\\MetodoAbastrato\\MetodoAbastrato\\Entities\\LegalEntity.cs",
+              "RelativeToolTip": "MetodoAbastrato\\Entities\\LegalEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:39:16.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NaturalPerson.cs",
+              "DocumentMoniker": "C:\\Temp\\Projetos C#\\MetodoAbastrato\\MetodoAbastrato\\Entities\\NaturalPerson.cs",
+              "RelativeDocumentMoniker": "MetodoAbastrato\\Entities\\NaturalPerson.cs",
+              "ToolTip": "C:\\Temp\\Projetos C#\\MetodoAbastrato\\MetodoAbastrato\\Entities\\NaturalPerson.cs",
+              "RelativeToolTip": "MetodoAbastrato\\Entities\\NaturalPerson.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAUwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:38:57.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Temp\\Projetos C#\\MetodoAbastrato\\MetodoAbastrato\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "MetodoAbastrato\\Entities\\Person.cs",
+              "ToolTip": "C:\\Temp\\Projetos C#\\MetodoAbastrato\\MetodoAbastrato\\Entities\\Person.cs",
+              "RelativeToolTip": "MetodoAbastrato\\Entities\\Person.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:27:27.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\Projetos C#\\MetodoAbastrato\\MetodoAbastrato\\Program.cs",
+              "RelativeDocumentMoniker": "MetodoAbastrato\\Program.cs",
+              "ToolTip": "C:\\Temp\\Projetos C#\\MetodoAbastrato\\MetodoAbastrato\\Program.cs",
+              "RelativeToolTip": "MetodoAbastrato\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwEUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:16:30.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\bin\Debug\net8.0\MetodoAbstrato.exe
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\bin\Debug\net8.0\MetodoAbstrato.deps.json
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\bin\Debug\net8.0\MetodoAbstrato.runtimeconfig.json
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\bin\Debug\net8.0\MetodoAbstrato.dll
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\bin\Debug\net8.0\MetodoAbstrato.pdb
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\obj\Debug\net8.0\MetodoAbstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\obj\Debug\net8.0\MetodoAbstrato.AssemblyInfoInputs.cache
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\obj\Debug\net8.0\MetodoAbstrato.AssemblyInfo.cs
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\obj\Debug\net8.0\MetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\obj\Debug\net8.0\MetodoAbstrato.dll
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\obj\Debug\net8.0\refint\MetodoAbstrato.dll
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\obj\Debug\net8.0\MetodoAbstrato.pdb
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\obj\Debug\net8.0\MetodoAbstrato.genruntimeconfig.cache
+C:\Temp\Projetos C#\MetodoAbastrato\MetodoAbastrato\obj\Debug\net8.0\ref\MetodoAbstrato.dll
